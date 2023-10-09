@@ -1,0 +1,1 @@
+print("name:Ernazar  city:ALmaty number:877777777")
